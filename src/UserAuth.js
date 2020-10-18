@@ -44,7 +44,7 @@ class UserAuth extends React.Component {
                         onClick={this.isLoggedOut}
                         className="btn btn-warning btn-sm"
                       >
-                        Login
+                        Logout
                       </button>
                       <p class="h4">Welcome Guest</p>
                     </React.Fragment>
