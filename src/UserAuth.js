@@ -23,7 +23,6 @@ class UserAuth extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <pre>{JSON.stringify(this.state.isLogged)}</pre>
         <div className="container mt-3">
           <div className="row">
             <div className="col">
